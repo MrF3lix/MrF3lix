@@ -1,6 +1,6 @@
 ### Hello there traveller 👋 take some rest
 
-![Rest](../assets/fireplace.gif)
+![Rest](./assets/fireplace.gif)
 
 <!--
 **MrF3lix/MrF3lix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
