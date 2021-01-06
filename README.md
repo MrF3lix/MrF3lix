@@ -2,6 +2,11 @@
 
 ![Rest](./assets/fireplace.gif)
 
+- 🤓 Checkout my [CV](https://read.cv/felixsaaro)
+- 👨‍💻 View my [LinkedIn Profile](https://www.linkedin.com/in/felix-saaro/)...
+- 📫 Or reach out to me view felix@saaro.ch
+
+
 <!--
 **MrF3lix/MrF3lix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
