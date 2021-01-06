@@ -5,7 +5,7 @@
 In the meantime:
 
 - 🤓 Checkout my [CV](https://read.cv/felixsaaro)
-- 👨‍💻 View my [LinkedIn Profile](https://www.linkedin.com/in/felix-saaro/)...
+- 👨‍💻 View my [LinkedIn](https://www.linkedin.com/in/felix-saaro/) Profile
 - 📫 Or reach out to me: felix@saaro.ch
 
 
