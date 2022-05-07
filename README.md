@@ -1,4 +1,4 @@
-### Hello there traveller 👋 take some rest
+### Hello there traveller 👋 take a break
 
 ![Rest](./assets/fireplace.gif)
 
