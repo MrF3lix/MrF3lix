@@ -1,10 +1,11 @@
-### Hello there traveller 👋 take a break
+### Hello there
 
-![Rest](./assets/fireplace.gif)
+I'm Felix - a Software Engineer interested in AI System Evaluation, Swiss German TTS, and Event‑Based Vision.
 
-In the meantime:
+Have a look at a couple of my side quests bellow
+or learn more about me here:
 
-- 🤓 Checkout my [CV](https://read.cv/felixsaaro)
+- 🤓 Checkout my [CV](https://felix.saaro.ch/cv_felix-saaro.pdf)
 - 👨‍💻 View my [LinkedIn](https://www.linkedin.com/in/felix-saaro/) Profile
 - 📫 Or reach out to me: felix@saaro.ch
 
